@@ -181,7 +181,6 @@ mpv-Yaozhi 基于 [mpv](https://github.com/mpv-player/mpv) 与 [dyphire/mpv-conf
 
 ### 安装
 
-1. 前往 [Releases](https://github.com/Yaozhil/mpv-Yaozhi/releases/latest) 下载最新整合包。
 2. 将压缩包完整解压到可写目录，不要直接在压缩软件中运行。
 3. 双击 `mpv.exe`，或者把媒体文件拖入播放器。
 4. 按需运行与 `mpv.exe` 同级的“杳知配置助手”，让程序识别硬件并选择适合的配置。
@@ -201,9 +200,6 @@ mpv-Yaozhi 基于 [mpv](https://github.com/mpv-player/mpv) 与 [dyphire/mpv-conf
 | 蓝光 / DVD 菜单 | 本地介质由原盘自身导航数据驱动；远程蓝光 ISO 使用主标题模式，不进入菜单 VM |
 | AI 超分与补帧 | 只在当前硬件和片源满足安全条件时启用；触发保护后保留原画质并回到普通播放 |
 
-## 问题反馈
-
-提交 [Issue](https://github.com/Yaozhil/mpv-Yaozhi/issues) 时，建议提供：
 
 - Windows 版本、显卡型号与驱动版本
 - 播放器版本，可运行 `mpv.com --version` 查看
@@ -213,19 +209,7 @@ mpv-Yaozhi 基于 [mpv](https://github.com/mpv-player/mpv) 与 [dyphire/mpv-conf
 
 请勿公开包含网盘账号、签名 URL、访问令牌或私人文件路径的完整日志。
 
-## 支持项目
 
-如果 mpv-Yaozhi 有幸改善了你的播放体验，非常欢迎在能力范围内支持。
-
-你的支持可以让我更好的 持续维护与开发本项目，总之非常感谢。
-
-<p align="center">
-  <a href="docs/images/赞赏码.png">
-    <img src="docs/images/赞赏码.png" alt="支持 mpv-Yaozhi" width="760">
-  </a>
-</p>
-
-</details>
 
 ## 来源与许可
 
