@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>mpv-Yaozhi</h1>
+<h1>mpv-awujiana</h1>
 
 **面向 Windows 的高画质、原盘导航、沉浸声与中文交互一体化 mpv 播放方案**
 
@@ -14,13 +14,12 @@
 
 </div>
 
-mpv-Yaozhi 基于 [mpv](https://github.com/mpv-player/mpv) 与 [dyphire/mpv-config](https://github.com/dyphire/mpv-config) 持续维护，集成自编译播放核心、Windows 便携配置与中文交互体验，提供开箱即用的完整懒人包。
+mpv-awujiana 基于 [mpv](https://github.com/mpv-player/mpv) 与 [dyphire/mpv-config](https://github.com/dyphire/mpv-config) 和[dyphire/mpv-config]([https://github.com/dyphire/mpv-config](https://github.com/Yaozhil/mpv-Yaozhi)) 持续维护，集成自编译播放核心、Windows 便携配置与中文交互体验，提供开箱即用的完整懒人包。
 
 项目重点覆盖 HDR / Dolby Vision、蓝光与 DVD 原盘菜单、图形字幕、AV3A / Audio Vivid、Dolby Atmos 源码直通、多声道 PCM、AI 超分与补帧、AList/OpenList 以及日常播放体验。
 
 > 本项目是社区维护的第三方发行方案，并非 mpv 官方版本。
 
-**交流群：** [Telegram · mpv_Yaozhi](https://t.me/mpv_Yaozhi)
 
 ## 近期更新
 
